@@ -1,0 +1,21 @@
+.bg-dark .container .mb-4 .btn {
+    border-radius: 50%;
+    width: 45px;
+    height: 38px;
+}
+
+.bg-dark .container .mb-4 .btn {
+    color: #0ff;
+}
+
+.bg-dark .container .mb-4 .btn:hover {
+    color: black;
+}
+
+.text-center span {
+    color: #0ff;
+}
+
+.text-center a {
+    text-decoration: none;
+}
